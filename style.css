@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    font-family: sans-serif;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 63px;
+    background-color: #581212 ;
+    position: fixed;
+    width: 100%;
+    z-index: 100;
+
+}
+
